@@ -1,0 +1,12 @@
+.main-container {
+    display: flex;
+    padding: 40px;
+}
+
+.chat-input {
+    min-width: 95%;
+}
+
+.result-section {
+    flex: 50%;
+}
